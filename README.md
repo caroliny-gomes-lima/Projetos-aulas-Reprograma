@@ -6,4 +6,5 @@ Projetos práticos ultilizados como atividades em aulas:
 - Projeto com foco em boas práticas de programação e design de códigos
 - Projeto com foco em estratégias de testes
 - Projeto guiado
+- Projeto com banco de dados posgresql
 - Projeto metodologia devOps
