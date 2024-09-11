@@ -5,4 +5,4 @@ Projetos práticos ultilizados como atividades em aulas:
 - Projeto Api Nest.js iniciando
 - Projeto com foco em boas práticas de programação e design de códigos
 - Projeto com foco em estratégias de testes
-- Projeto com foco em Arquitetura de Software
+- Projeto guiado
