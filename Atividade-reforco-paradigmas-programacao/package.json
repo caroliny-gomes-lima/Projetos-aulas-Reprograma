@@ -1,0 +1,12 @@
+{
+  "name": "on32-ijs-s1-atividade-reforco",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\">Gerenciamento de Biblioteca Digital</h2>\r Você desenvolverá um sistema de gerenciamento de uma biblioteca digital utilizando apenas classes e interfaces simples e introdutórias em TypeScript. Este sistema permitirá que os usuários cadastrem e gerenciem diferentes tipos de materiais de leitura, incluindo livros, revistas e artigos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
